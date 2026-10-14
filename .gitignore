@@ -1,0 +1,24 @@
+# SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# Build artifacts
+/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+*.out
+
+# Local env
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
